@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **github, linkedin**
 
-- 🤝 I’m looking for help with **projects**
-
 - 💬 Ask me about **java,html,css,javascript**
 
 - 📫 How to reach me **adityakumarb4469@gmail.com**
